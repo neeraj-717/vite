@@ -12,6 +12,7 @@ import Fromvalid from './react in java script/fromvalid'
 import TextUtilss from './react in java script/TextUtilss'
 import TextUtils from './components/TextUtils'
 import Search from './components/Search'
+import SearchDataa from './react in java script/SearchDataa'
 function App() {
   // const [count, setCount] = useState(0)
 
@@ -34,7 +35,8 @@ function App() {
       {/* <Fromvalid/> */}
       {/* <TextUtils /> */}
       {/* <TextUtilss/> */}
-      <Search />
+      {/* <Search /> */}
+      <SearchDataa/>
 
     </>
   )
